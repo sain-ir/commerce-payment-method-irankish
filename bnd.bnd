@@ -1,0 +1,4 @@
+Bundle-Name: commerce-payment-method-irankish
+Bundle-SymbolicName: com.sain.commerce.payment.method.irankish
+Bundle-Version: 1.0.0
+Web-ContextPath: /commerce-payment-method-irankish
